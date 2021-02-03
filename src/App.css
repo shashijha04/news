@@ -1,0 +1,10 @@
+.Home{
+    background-color: white;
+    display: flex;
+   margin: 100px;
+   justify-content: space-between;
+   border: none;
+   flex-flow:column wrap
+  
+
+}
