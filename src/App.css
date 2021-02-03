@@ -1,8 +1,6 @@
 .Home_row{
     background-color: white;
-    display: flex;
    margin: 100px;
-   justify-content: space-between;
-   border: none;
+     border: none;
   
 }
